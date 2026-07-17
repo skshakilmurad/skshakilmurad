@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Sk Shakil Murad 👋
 
-<!--
-**skshakilmurad/skshakilmurad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. in Applied Geology
 
-Here are some ideas to get you started:
+🌍 Aspiring GIS & Remote Sensing Professional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Kolkata, West Bengal, India
+
+## About Me
+
+I'm an Applied Geology graduate with a growing interest in GIS, Remote Sensing, and geospatial technologies. I'm currently building practical skills through hands-on projects in QGIS and Python while working toward a career in the geospatial industry.
+
+## Currently Learning
+
+- QGIS
+- Remote Sensing
+- Python for GIS
+- Spatial Data Analysis
+
+## Career Interests
+
+- GIS & Remote Sensing
+- Geospatial Analysis
+- AI Data Annotation
+- Virtual Assistant
+- Geology
+
+## Goals
+
+- Build a strong GIS portfolio
+- Complete practical GIS projects
+- Learn Python for geospatial applications
+- Begin a professional career in GIS & Remote Sensing
+
+Thanks for visiting my GitHub profile!
