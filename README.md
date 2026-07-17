@@ -1,35 +1,23 @@
 # Hi, I'm Sk Shakil Murad 👋
 
-🎓 M.Sc. in Applied Geology
+I am an Applied Geologist building skills in GIS, Remote Sensing, and Python for geospatial applications.
 
-🌍 Aspiring GIS & Remote Sensing Professional
+## 🌍 About Me
+- MSc in Applied Geology
+- Interested in Earth Science, GIS, Remote Sensing, and geospatial data analysis
+- Currently learning QGIS, Remote Sensing concepts, and Python for GIS
 
-📍 Kolkata, West Bengal, India
-
-## About Me
-
-I'm an Applied Geology graduate with a growing interest in GIS, Remote Sensing, and geospatial technologies. I'm currently building practical skills through hands-on projects in QGIS and Python while working toward a career in the geospatial industry.
-
-## Currently Learning
-
+## 🛠️ Skills & Tools
 - QGIS
+- GIS Fundamentals
 - Remote Sensing
-- Python for GIS
-- Spatial Data Analysis
+- Python Basics
+- Geological Mapping
 
-## Career Interests
+## 📚 Current Learning Journey
+- Building GIS and Remote Sensing projects
+- Practicing geospatial analysis
+- Creating a portfolio of my work
 
-- GIS & Remote Sensing
-- Geospatial Analysis
-- AI Data Annotation
-- Virtual Assistant
-- Geology
-
-## Goals
-
-- Build a strong GIS portfolio
-- Complete practical GIS projects
-- Learn Python for geospatial applications
-- Begin a professional career in GIS & Remote Sensing
-
-Thanks for visiting my GitHub profile!
+## 🎯 Goal
+To develop practical geospatial skills and apply them in Earth Science and environmental projects.
