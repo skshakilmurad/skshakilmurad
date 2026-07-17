@@ -23,4 +23,4 @@ I am an Applied Geologist building skills in GIS, Remote Sensing, and Python for
 To develop practical geospatial skills and apply them in Earth Science and environmental projects.
 ## 🌐 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/sk-shakil-murad/
+- LinkedIn: www.linkedin.com/in/skshakilmurad
