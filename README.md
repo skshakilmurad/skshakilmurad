@@ -89,12 +89,6 @@ Applied Geologist with an M.Sc. in Applied Geology and a growing portfolio in GI
 
 ---
 
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/skshakilmurad
-
----
-
 ### ⭐ Portfolio Goal
 
 To build a strong geospatial portfolio demonstrating practical applications of GIS, Remote Sensing, Spatial Analysis, and Environmental Mapping for professional GIS and Geospatial careers.
