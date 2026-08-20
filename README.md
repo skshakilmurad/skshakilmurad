@@ -7,7 +7,7 @@ Applied Geologist with an M.Sc. in Applied Geology and a growing portfolio in GI
 ## 🌍 About Me
 
 - 🎓 M.Sc. in Applied Geology
-- 🛰️ GIS & Remote Sensing Portfolio Developer
+- 🛰️ Aspiring GIS Analyst with hands-on project experience
 - 📍 Based in West Bengal, India
 - 🌱 Developing practical expertise through GIS and remote sensing projects
 - 🎯 Aspiring GIS Analyst focused on spatial problem solving and geospatial data analysis
@@ -44,7 +44,7 @@ Applied Geologist with an M.Sc. in Applied Geology and a growing portfolio in GI
 - QuickOSM
 - JOSM
 - Git & GitHub
-- Python for GIS (Beginner)
+- Python for GIS 
 
 ---
 
